@@ -1,7 +1,7 @@
-<H3>Enter Name Naramala Niharika </H3>
-<H3>Enter Register No. 212221240031 </H3>
+<H3>Enter Name: Naramala Niharika </H3>
+<H3>Enter Register No: 212221240031 </H3>
 <H3>Experiment 2</H3>
-<H3>Date 27/2/24 </H3>
+<H3>Date: 27/2/24 </H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
